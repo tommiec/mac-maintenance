@@ -168,3 +168,7 @@ Unmount the vault after use and let iCloud Drive finish syncing before shutting 
 ## License
 
 MIT — Thomas Coppens
+
+## AI usage
+
+AI was used as a sounding board for shell-scripting choices, error analysis and documentation structure. The design, implementation, validation and maintenance are mine.
